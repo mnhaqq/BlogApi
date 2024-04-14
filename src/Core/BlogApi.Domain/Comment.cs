@@ -1,6 +1,6 @@
 using BlogApi.Domain.Common;
 
-namespace BlogCrudApp.Models
+namespace BlogApi.Domain
 {
     public class Comment : BaseDomainEntity
     {
